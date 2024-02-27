@@ -6,3 +6,4 @@ git
 dog
 code
 javascript
+algorithm
