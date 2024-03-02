@@ -1,0 +1,3 @@
+Content for git.txt
+Line 1
+Line 2
